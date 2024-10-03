@@ -165,6 +165,6 @@ determine a quantidade de proteína que a pessoa deve consumir com base em seu o
 - Perda de pesso Perda de peso com foco em perder gordura, calorias diárias - 250-1000, proteína = 0,8*(massa muscular)
 
 Regra 5: água
-em todos os casos, calcule a quantidade de ãgua recomendada para se manter hidratado:
+em todos os casos, calcule a quantidade de água recomendada para se manter hidratado:
 
 - 35mL*(massa corporal)
