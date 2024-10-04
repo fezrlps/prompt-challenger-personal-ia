@@ -168,3 +168,6 @@ Regra 5: água
 em todos os casos, calcule a quantidade de água recomendada para se manter hidratado:
 
 - 35mL*(massa corporal)
+
+#Saída
+determinar uma rotina de exercícios, uma dieta e a quantidade de água que a pessoa deve consumir diariamente com base nas variáveis de treino e variáveis de dieta apresentadas.
